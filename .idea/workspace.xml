@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb26811a-ee80-4ed6-bc7a-bb292c5fa8bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-consumo-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/modelos/ApiViaCep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/modelos/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/modelos/GeradorArquivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte1/TesteParte1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte1/modulos/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte1/modulos/CoinGecko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte1/modulos/TheMeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte2/TestesParte2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte2/modulos/Editora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte2/modulos/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte2/modulos/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte3/TestesParte3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte3/excecao/ErroConsultaGitHubException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte3/excecao/SenhaInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte3/modelos/ApiGitHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte3/modelos/Divisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte3/modelos/Senhas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte4/TestesParte4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte4/modelos/Titulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/parte4/modelos/Veiculo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gvTjrneWgz3Hax880KAtU3S1xQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Principal.executor": "Run",
+    "Application.TesteParte1.executor": "Run",
+    "Application.TestesParte2.executor": "Run",
+    "Application.TestesParte3.executor": "Run",
+    "Application.TestesParte4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hmath/Projetos/java/java-consumo-api",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exercicios.parte3.excecao" />
+      <recent name="exercicios.parte2.modulos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafio.Principal" />
+      <module name="java-consumo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafio.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteParte1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.parte1.TesteParte1" />
+      <module name="java-consumo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.parte1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestesParte2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.parte2.TestesParte2" />
+      <module name="java-consumo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.parte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestesParte3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.parte3.TestesParte3" />
+      <module name="java-consumo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.parte3.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestesParte4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.parte4.TestesParte4" />
+      <module name="java-consumo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.parte4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.TestesParte4" />
+        <item itemvalue="Application.TestesParte3" />
+        <item itemvalue="Application.TestesParte2" />
+        <item itemvalue="Application.TesteParte1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb26811a-ee80-4ed6-bc7a-bb292c5fa8bc" name="Changes" comment="" />
+      <created>1716577190363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716577190363</updated>
+    </task>
+    <servers />
+  </component>
+</project>
